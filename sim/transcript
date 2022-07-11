@@ -1,0 +1,791 @@
+# Reading D:/modelsim/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# OpenFile C:/Users/Spica/Desktop/FMA/dot_product/sim/DOT.mpf
+# Loading project DOT
+# Compile of TOP.v failed with 1 errors.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 1 failed with 1 error.
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim -gui C:\Users\Spica\Desktop\FMA\dot_product\sim\DOT.mpf 
+# Start time: 15:34:52 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+# ** Fatal: (vsim-3365) C:/Users/Spica/Desktop/FMA/dot_product/RTL/testbench.v(7): Too many port connections. Expected 7, found 8.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/top File: C:/Users/Spica/Desktop/FMA/dot_product/RTL/TOP.v
+# FATAL ERROR while loading design
+# Error loading design
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 15:36:28 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+run
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 16:09:08 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+run
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 16:26:43 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+run
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 16:34:49 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+run
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 16:35:39 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+run
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+run
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 21:33:57 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+run
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 21:36:21 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+run
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 21:39:09 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+run
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 21:58:33 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+run
+# Compile of TOP.v was successful.
+# Compile of fulladder.v was successful.
+# Compile of fulladder_8bit.v was successful.
+# Compile of left_shifter.v was successful.
+# Compile of LZC_8bit.v was successful.
+# Compile of posit_comp.v was successful.
+# Compile of posit_extraction.v was successful.
+# Compile of posit_LZC.v was successful.
+# Compile of testbench.v was successful.
+# Compile of alignment_ctl.v was successful.
+# Compile of exp_adder.v was successful.
+# Compile of mant_align.v was successful.
+# Compile of KSA.v was successful.
+# Compile of PG.v was successful.
+# Compile of ModRadix4BoothGen.v was successful.
+# Compile of ModUnsignedRadix4BoothGen.v was successful.
+# Compile of Compressor32.v was successful.
+# Compile of Compressor42.v was successful.
+# Compile of Compressor53.v was successful.
+# Compile of Compressor73.v was successful.
+# Compile of MatissaAdder48.v was successful.
+# Compile of MatissaMultiplier28x28.v was successful.
+# Compile of MatissaPPGate28x28.v was successful.
+# Compile of MatissaWallaceTree28x28.v was successful.
+# Compile of SignedMultiplier8x8.v was successful.
+# Compile of SignextSigned8x8.v was successful.
+# Compile of WallaceTreeSigned8x8.v was successful.
+# Compile of SignextUnsigned7x7.v was successful.
+# Compile of UnsignedMultiplier7x7.v was successful.
+# Compile of WallaceTreeUnsigned7x7.v was successful.
+# Compile of packing.v was successful.
+# 31 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 22:02:14 on Jun 01,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Loading work.testbench
+# Loading work.top
+# Loading work.posit_ext
+# Loading work.posit_comp
+# Loading work.fulladder_8bit
+# Loading work.fulladder
+# Loading work.posit_LZC
+# Loading work.LZC_8bit
+# Loading work.left_shifter
+# Loading work.exp_adder
+# Loading work.alignment_ctl
+# Loading work.MatissaMultipleir28x28
+# Loading work.MatissaPPGate28x28
+# Loading work.MatissaWallaceTree28x28
+# Loading work.Compressor32
+# Loading work.MatissaAdder48
+# Loading work.mant_align
+# Loading work.packing
+# Loading work.PG
+# Loading work.Compressor53
+# Loading work.Compressor73
+# Loading work.UnsignedMultiplier7x7
+# Loading work.ModUnsignedRadix4BoothGen
+# Loading work.SignextUnsigned7x7
+# Loading work.WallaceTreeUnsigned7x7
+# Loading work.KSA
+run
+# End time: 23:08:53 on Jun 01,2022, Elapsed time: 1:06:39
+# Errors: 0, Warnings: 1

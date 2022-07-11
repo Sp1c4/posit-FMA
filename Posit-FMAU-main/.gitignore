@@ -1,0 +1,8 @@
+data/
+obj_dir/
+iverilog_build/
+modelsim/
+!testbench/modelsim/
+syn/work/
+syn/nlist/
+syn/reports/

@@ -1,0 +1,225 @@
+C:/Users/Spica/Desktop/FMA/dot_product/RTL/packing&rounding/packing.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/packing&rounding/packing.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module packing
+
+Top level modules:
+	packing
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_comp.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_comp.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module posit_comp
+
+Top level modules:
+	posit_comp
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor42.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor42.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Compressor42
+
+Top level modules:
+	Compressor42
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_LZC.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_LZC.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module posit_LZC
+
+Top level modules:
+	posit_LZC
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/testbench.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/testbench.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModUnsignedRadix4BoothGen.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModUnsignedRadix4BoothGen.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ModUnsignedRadix4BoothGen
+
+Top level modules:
+	ModUnsignedRadix4BoothGen
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder_8bit.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder_8bit.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module fulladder_8bit
+
+Top level modules:
+	fulladder_8bit
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/WallaceTreeUnsigned7x7.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/WallaceTreeUnsigned7x7.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module WallaceTreeUnsigned7x7
+
+Top level modules:
+	WallaceTreeUnsigned7x7
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/TOP.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/TOP.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/SignextUnsigned7x7.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/SignextUnsigned7x7.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module SignextUnsigned7x7
+
+Top level modules:
+	SignextUnsigned7x7
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module fulladder
+
+Top level modules:
+	fulladder
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModRadix4BoothGen.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModRadix4BoothGen.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ModRadix4BoothGen
+
+Top level modules:
+	ModRadix4BoothGen
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaPPGate28x28.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaPPGate28x28.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MatissaPPGate28x28
+
+Top level modules:
+	MatissaPPGate28x28
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor32.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor32.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Compressor32
+
+Top level modules:
+	Compressor32
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/alignment_ctl.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/alignment_ctl.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module alignment_ctl
+
+Top level modules:
+	alignment_ctl
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/KSA.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/KSA.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module KSA
+
+Top level modules:
+	KSA
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/PG.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/PG.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module PG
+
+Top level modules:
+	PG
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignedMultiplier8x8.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignedMultiplier8x8.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module SignedMultiplier8x8
+
+Top level modules:
+	SignedMultiplier8x8
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_extraction.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_extraction.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module posit_ext
+
+Top level modules:
+	posit_ext
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/left_shifter.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/left_shifter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module left_shifter
+
+Top level modules:
+	left_shifter
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/LZC_8bit.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/LZC_8bit.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module LZC_8bit
+
+Top level modules:
+	LZC_8bit
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor53.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor53.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Compressor53
+
+Top level modules:
+	Compressor53
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/WallaceTreeSigned8x8.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/WallaceTreeSigned8x8.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module WallaceTreeSigned8x8
+
+Top level modules:
+	WallaceTreeSigned8x8
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/UnsignedMultiplier7x7.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/UnsignedMultiplier7x7.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module UnsignedMultiplier7x7
+
+Top level modules:
+	UnsignedMultiplier7x7
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/adder/mant_align.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/adder/mant_align.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mant_align
+
+Top level modules:
+	mant_align
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/control.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/control.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/exp_adder.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/exp_adder.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module exp_adder
+
+Top level modules:
+	exp_adder
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignextSigned8x8.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignextSigned8x8.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module SignextSigned8x8
+
+Top level modules:
+	SignextSigned8x8
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaMultiplier28x28.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaMultiplier28x28.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MatissaMultipleir28x28
+
+Top level modules:
+	MatissaMultipleir28x28
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor73.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor73.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Compressor73
+
+Top level modules:
+	Compressor73
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaAdder48.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaAdder48.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MatissaAdder48
+
+Top level modules:
+	MatissaAdder48
+
+} {} {}} C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaWallaceTree28x28.v {1 {vlog -work work -novopt -stats=none C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaWallaceTree28x28.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MatissaWallaceTree28x28
+
+Top level modules:
+	MatissaWallaceTree28x28
+
+} {} {}}

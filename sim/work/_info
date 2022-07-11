@@ -1,0 +1,670 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim/examples
+valignment_ctl
+Z0 !s110 1655481240
+!i10b 1
+!s100 fS>_EWB[H;dFTGmhAJ7392
+I9cgMYX_Xie8k0>PG14i7>2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Spica/Desktop/FMA/dot_product/sim
+w1655284546
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/alignment_ctl.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/alignment_ctl.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1655481240.167000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/alignment_ctl.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/alignment_ctl.v|
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vCompressor32
+R0
+!i10b 1
+!s100 L0f>?DKJQeJj4ZA8X;[jB1
+IJlB^dQoCVF@c=0@3QdUI]2
+R1
+R2
+Z5 w1652865418
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor32.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor32.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481240.812000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor32.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor32.v|
+!i113 1
+R4
+n@compressor32
+vCompressor42
+R0
+!i10b 1
+!s100 ALC7FQgWW0ez8Jn1zVcJ53
+IZ7U[bEj[j7JKnUWW_160e1
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor42.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor42.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481240.882000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor42.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor42.v|
+!i113 1
+R4
+n@compressor42
+vCompressor53
+Z6 !s110 1655481241
+!i10b 1
+!s100 PDY_9zcS]^QE4c?=UF@:d1
+I258X`Y^c^TAAk5O:m:z`J2
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor53.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor53.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481240.951000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor53.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor53.v|
+!i113 1
+R4
+n@compressor53
+vCompressor73
+R6
+!i10b 1
+!s100 JmG<odjSaZKR^49e_Veo<2
+I?UhRcZKkDcICe31f5VK403
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor73.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor73.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.101000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor73.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/Compressors/Compressor73.v|
+!i113 1
+R4
+n@compressor73
+vcontrol
+Z7 !s110 1655481242
+!i10b 1
+!s100 mLOCXJNVldVzdLG_NP^AM3
+I?16me6OURC6<PWE@^l4bM3
+R1
+R2
+w1655217571
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/control.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481242.060000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/control.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/control.v|
+!i113 1
+R4
+vexp_adder
+R0
+!i10b 1
+!s100 >WM50V3dS8YTgm2EzEBNO3
+I^ZR6[_jlVPNkVEBZdzK]^0
+R1
+R2
+w1655217510
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/exp_adder.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/exp_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481240.263000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/exp_adder.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/multipler/exp_adder.v|
+!i113 1
+R4
+vfulladder
+Z8 !s110 1655481239
+!i10b 1
+!s100 G`>j3dDRi[iFTF_Pb4z7R3
+IAM<HGM4gH53LfBBeIX]Bf2
+R1
+R2
+w1650967026
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481239.154000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder.v|
+!i113 1
+R4
+vfulladder_8bit
+R8
+!i10b 1
+!s100 _iGF3eYOTJK3fEInaE;cY1
+IGRCKKVJQLT`VL:GXUcN;V2
+R1
+R2
+w1650959819
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder_8bit.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder_8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481239.229000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder_8bit.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/fulladder_8bit.v|
+!i113 1
+R4
+vKSA
+R0
+!i10b 1
+!s100 Pe?RdQMeC`2<5mEI9fQ670
+IghLFkfzR?_MD62zGU>hfh2
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/KSA.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/KSA.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481240.501000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/KSA.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/KSA.v|
+!i113 1
+R4
+n@k@s@a
+vleft_shifter
+R8
+!i10b 1
+!s100 h7j3>3EHgGEl:@A7a^UCA1
+IzEoT867ClRAhW=MTd8O8N1
+R1
+R2
+w1655217523
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/left_shifter.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/left_shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481239.308000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/left_shifter.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/left_shifter.v|
+!i113 1
+R4
+vLZC_8bit
+R8
+!i10b 1
+!s100 zY<66`hUZ]GlfZOOfSaeY0
+Inn:ejNb:D11JJ4C^co@CW3
+R1
+R2
+w1651134182
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/LZC_8bit.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/LZC_8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481239.393000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/LZC_8bit.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/LZC_8bit.v|
+!i113 1
+R4
+n@l@z@c_8bit
+vmant_align
+R0
+!i10b 1
+!s100 <hog?n@6S6RobzhWR:fNl0
+IWOLdjk1EbRA62zah0h2lk3
+R1
+R2
+w1655476505
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/adder/mant_align.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/adder/mant_align.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481240.384000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/adder/mant_align.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/adder/mant_align.v|
+!i113 1
+R4
+vMatissaAdder48
+R6
+!i10b 1
+!s100 7haz@jFlLlgR3DAd8JKM`3
+IfWWLKLFEQ2iOT>eGh_m=^1
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaAdder48.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaAdder48.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.177000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaAdder48.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaAdder48.v|
+!i113 1
+R4
+n@matissa@adder48
+vMatissaMultipleir28x28
+R6
+!i10b 1
+!s100 J[nzXD7:J^hL1mEcKATQ?3
+I?B7dYdmDFXkaf1C17G`OE0
+R1
+R2
+w1655031414
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaMultiplier28x28.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaMultiplier28x28.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.257000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaMultiplier28x28.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaMultiplier28x28.v|
+!i113 1
+R4
+n@matissa@multipleir28x28
+vMatissaPPGate28x28
+R6
+!i10b 1
+!s100 4WKV^@kc89TfBGNd3CWzn1
+II6G5Vn3n:>L89X_53>7N23
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaPPGate28x28.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaPPGate28x28.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.333000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaPPGate28x28.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaPPGate28x28.v|
+!i113 1
+R4
+n@matissa@p@p@gate28x28
+vMatissaWallaceTree28x28
+R6
+!i10b 1
+!s100 6ZhhJ6ZSO>zdUz=Wk]0YA1
+I<95<_Yb_mQ4G6S[O1W5250
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaWallaceTree28x28.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaWallaceTree28x28.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.406000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaWallaceTree28x28.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/MatissaMultiplier/MatissaWallaceTree28x28.v|
+!i113 1
+R4
+n@matissa@wallace@tree28x28
+vModRadix4BoothGen
+R0
+!i10b 1
+!s100 CnMedLa3?cJ45>XGKJGL[0
+IT^d=Kl[QclO94TOfeVScI2
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModRadix4BoothGen.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModRadix4BoothGen.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481240.666000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModRadix4BoothGen.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModRadix4BoothGen.v|
+!i113 1
+R4
+n@mod@radix4@booth@gen
+vModUnsignedRadix4BoothGen
+R0
+!i10b 1
+!s100 e`[Nm95Z@o5o]GMADZbIM1
+IWTj4<E8M^aD:KE;ZILc9M3
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModUnsignedRadix4BoothGen.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModUnsignedRadix4BoothGen.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481240.741000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModUnsignedRadix4BoothGen.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/BoothEncoders/ModUnsignedRadix4BoothGen.v|
+!i113 1
+R4
+n@mod@unsigned@radix4@booth@gen
+vpacking
+R7
+!i10b 1
+!s100 7QTG<J`Tg6XVGD_E67GVU3
+IUFYBN3AUjDDad_]K2S4WW1
+R1
+R2
+w1655481230
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/packing&rounding/packing.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/packing&rounding/packing.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.986000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/packing&rounding/packing.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/packing&rounding/packing.v|
+!i113 1
+R4
+vPG
+R0
+!i10b 1
+!s100 kKY?e00;zem12EMP<GS@W3
+I:MgFSV]RN<7DDNMFck@>R2
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/PG.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/PG.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481240.591000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/PG.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/adder/Kogge-Stone/PG.v|
+!i113 1
+R4
+n@p@g
+vposit_comp
+R8
+!i10b 1
+!s100 fgOCDX6HndCHXhI;AIJaM2
+INz6<hL?40EGNcn[B^cfYF3
+R1
+R2
+w1655222634
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_comp.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_comp.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481239.549000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_comp.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_comp.v|
+!i113 1
+R4
+vposit_ext
+R8
+!i10b 1
+!s100 JK7c:UcI_=oEB=N`?MAL;1
+I`3HFTLfJCJ_2VAHnUZzZ63
+R1
+R2
+w1655284403
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_extraction.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_extraction.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481239.641000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_extraction.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_extraction.v|
+!i113 1
+R4
+vposit_LZC
+R8
+!i10b 1
+!s100 XI@i7h[_ggnh48HV[]Q7G2
+I8]Vo8g;o[YmDlZm_K]ihW1
+R1
+R2
+w1651634642
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_LZC.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_LZC.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481239.714000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_LZC.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/extraction/posit_LZC.v|
+!i113 1
+R4
+nposit_@l@z@c
+vSignedMultiplier8x8
+R6
+!i10b 1
+!s100 VTCSHaaGX:AI6Y=Rk4QQZ1
+IlM13U>9006`;1ii3m2M3k0
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignedMultiplier8x8.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignedMultiplier8x8.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.480000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignedMultiplier8x8.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignedMultiplier8x8.v|
+!i113 1
+R4
+n@signed@multiplier8x8
+vSignextSigned8x8
+R6
+!i10b 1
+!s100 E7zJ3Hh91;j9oRn9GJC^O0
+IHXXK5HPf24;^jD8AZ>;K82
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignextSigned8x8.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignextSigned8x8.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.550000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignextSigned8x8.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/SignextSigned8x8.v|
+!i113 1
+R4
+n@signext@signed8x8
+vSignextUnsigned7x7
+R6
+!i10b 1
+!s100 M8g8b78KJB67`Y66VE6HE3
+IB=g8ARRXo[S4nLGcO:4gm1
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/SignextUnsigned7x7.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/SignextUnsigned7x7.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.779000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/SignextUnsigned7x7.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/SignextUnsigned7x7.v|
+!i113 1
+R4
+n@signext@unsigned7x7
+vtestbench
+R8
+!i10b 1
+!s100 _Y31QQL6XPifO`=goQ5CU3
+IfJHnD5T@SgIETS?F@WG0H2
+R1
+R2
+w1655464580
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/testbench.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1655481239.793000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/testbench.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/testbench.v|
+!i113 1
+R4
+vtop
+R8
+!i10b 1
+!s100 GhHLRIObJCXaZ1Pc5=X3:1
+ISN3NnfG?DJk:=F?3ONfCF0
+R1
+R2
+w1655286886
+8C:/Users/Spica/Desktop/FMA/dot_product/RTL/TOP.v
+FC:/Users/Spica/Desktop/FMA/dot_product/RTL/TOP.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481239.085000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/RTL/TOP.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/RTL/TOP.v|
+!i113 1
+R4
+vUnsignedMultiplier7x7
+R6
+!i10b 1
+!s100 9[=I=[_>e4Oclo4ECEQ:M2
+I6EmL1]cOZL]mT`cJ?aB042
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/UnsignedMultiplier7x7.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/UnsignedMultiplier7x7.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.848000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/UnsignedMultiplier7x7.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/UnsignedMultiplier7x7.v|
+!i113 1
+R4
+n@unsigned@multiplier7x7
+vWallaceTreeSigned8x8
+R6
+!i10b 1
+!s100 BRNIY1?]JYPOe4Um@SPz21
+IU52;elckWmn7d3gDPlffL3
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/WallaceTreeSigned8x8.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/WallaceTreeSigned8x8.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.706000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/WallaceTreeSigned8x8.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/SignedMultiplier8x8/WallaceTreeSigned8x8.v|
+!i113 1
+R4
+n@wallace@tree@signed8x8
+vWallaceTreeUnsigned7x7
+R6
+!i10b 1
+!s100 TU5HkB41IcmZ2TQZUO?JA1
+IobdLR^:1NkXc:`d51Cc<?0
+R1
+R2
+R5
+8C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/WallaceTreeUnsigned7x7.v
+FC:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/WallaceTreeUnsigned7x7.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655481241.917000
+!s107 C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/WallaceTreeUnsigned7x7.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/Spica/Desktop/FMA/dot_product/Posit-FMAU-main/rtl/multiplier/multipliers/UnsignedMultiplier7x7/WallaceTreeUnsigned7x7.v|
+!i113 1
+R4
+n@wallace@tree@unsigned7x7
